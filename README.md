@@ -1,1 +1,1 @@
-This project contains files of programmable algorithms illustrated in my structural dynamic thought course.
+This project contains files of programmable algorithms illustrated in my final year structural dynamic thought course.
